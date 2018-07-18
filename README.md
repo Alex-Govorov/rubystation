@@ -2,11 +2,17 @@
 
 Notes what should help me in next RoR instalation on new system
 
-__Bold__
-## Header 2
-[Hyperlink](http://link.org/)
+## RVM
+First step is installing [RVM](http://http://rvm.io/)
+```bash
+gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+```
 
-Mark with `backgroud`.
+If you got timeout on this stage you can force to use port 80
+
+```bash
+gpg --keyserver hkp://keys.gnupg.net:80 --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+```
 
 ```bash
 ls
