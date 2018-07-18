@@ -18,8 +18,8 @@ gpg --keyserver hkp://keys.gnupg.net:80 --recv-keys 409B6B1796C275462A1703113804
 \curl -sSL https://get.rvm.io | bash -s stable
 ```
 
+Installing last ruby version: 2.5 on the moment.
 
-```
-Multiline
-Something 
+```bash
+rvm install 2.5 
 ```
