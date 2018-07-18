@@ -23,3 +23,11 @@ Installing last ruby version: 2.5 on the moment.
 ```bash
 rvm install 2.5 
 ```
+Use this version by default:
+```bash
+rvm use 2.5.1 --default
+```
+You can see all installed versions:
+```bash
+rvm list
+```
