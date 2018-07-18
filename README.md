@@ -15,7 +15,7 @@ gpg --keyserver hkp://keys.gnupg.net:80 --recv-keys 409B6B1796C275462A1703113804
 ```
 
 ```bash
-ls
+\curl -sSL https://get.rvm.io | bash -s stable
 ```
 
 
