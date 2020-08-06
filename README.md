@@ -10,7 +10,7 @@ rvm list - посмотреть какие установлены
 rvm use 2.2.1 --default - использовать версию по умолчанию
 3. Ставим Sublime Text, к нему модуль SyncSetting , синхронизируемся с gist
 4. Качаем с github'a настройки rubocop
-Установква Rails
+# Установква Rails
 1. Устанавливаем yarn + Node.js
 https://classic.yarnpkg.com/en/docs/install#debian-stable
 curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
