@@ -18,6 +18,11 @@ rvm use 2.2.1 --default - использовать версию по умолч�
 
 4. Качаем с github'a настройки rubocop
 
+# Установква Sublime Text 4
+Ctrl+Shift+P and install package control
+
+Packages: SublimeLinter, sumlimelinter-rubocop
+
 # Установква Rails
 1. Устанавливаем yarn + Node.js
 
